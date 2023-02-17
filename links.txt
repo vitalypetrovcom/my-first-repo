@@ -1,0 +1,9 @@
+Документация PHP: http://php.net/manual/ru/
+Денвер: http://www.denwer.ru/
+XAMPP: https://www.apachefriends.org/ru/index.html
+Open Server: http://open-server.ru/download/
+CodeLobster: http://www.codelobster.com/
+Aptana: http://www.aptana.com/
+PhpStorm: https://www.jetbrains.com/phpstorm/
+Notepad++: https://notepad-plus-plus.org/
+Sublime Text: http://www.sublimetext.com/3
